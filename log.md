@@ -17,6 +17,6 @@ This took longer than I exprected to learn. And I learned to alocate more time t
 
 **Links to work :** 
 
-(NodeJS-Authentication)[https://github.com/Mark-Muchiri/NodeJS-Authentication]
+[NodeJS-Authentication](https://github.com/Mark-Muchiri/NodeJS-Authentication)
 
 <br>
