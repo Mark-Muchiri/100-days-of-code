@@ -20,3 +20,20 @@ This took longer than I exprected to learn. And I learned to alocate more time t
 [NodeJS-Authentication](https://github.com/Mark-Muchiri/NodeJS-Authentication)
 
 <br>
+
+
+## Day 2 : July 21, Thursday
+
+### **Today's progress :**
+- Worked on the authentication function and got stuck on an error
+
+### **Thoughts :**
+Still pushing through
+
+<br>
+
+**Links to work :** 
+
+[NodeJS-Authentication](https://github.com/Mark-Muchiri/NodeJS-Authentication)
+
+<br>
