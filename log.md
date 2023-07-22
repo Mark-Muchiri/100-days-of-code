@@ -37,3 +37,21 @@ Still pushing through
 [NodeJS-Authentication](https://github.com/Mark-Muchiri/NodeJS-Authentication)
 
 <br>
+
+
+## Day 3 : July 21, Thursday
+
+### **Today's progress :**
+- I was able to complete the registration featura
+- I was also able to do complete the check if user exists function too
+
+### **Thoughts :**
+Still pushing through
+
+<br>
+
+**Links to work :** 
+
+[NodeJS-Authentication](https://github.com/Mark-Muchiri/NodeJS-Authentication)
+
+<br>
