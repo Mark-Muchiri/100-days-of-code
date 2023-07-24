@@ -3,7 +3,7 @@
 
 ---
 
-## Day 1 : July 21, Thursday
+## Day 1 : July 21, Friday
 
 ### **Today's progress :**
 - Learned how to Make and connect an API project to a database
@@ -22,7 +22,7 @@ This took longer than I exprected to learn. And I learned to alocate more time t
 <br>
 
 
-## Day 2 : July 22, Thursday
+## Day 2 : July 22, Saturday
 
 ### **Today's progress :**
 - Worked on the authentication function and got stuck on an error
@@ -39,7 +39,7 @@ Still pushing through
 <br>
 
 
-## Day 3 : July 23, Thursday
+## Day 3 : July 23, Sunday
 
 ### **Today's progress :**
 - I was able to complete the registration featura
@@ -57,13 +57,30 @@ Still pushing through
 <br>
 
 
-## Day 4 : July 24, Thursday
+## Day 4 : July 24, Monday
 
 ### **Today's progress :**
 - I was able to complete the login feature.
 
 ### **Thoughts :**
 It was farely smooth
+
+<br>
+
+**Links to work :** 
+
+[NodeJS-Authentication](https://github.com/Mark-Muchiri/NodeJS-Authentication)
+
+<br>
+
+
+## Day 5 : July 24, Tuesday
+
+### **Today's progress :**
+- Got system update issues with firmware that crashed VScode
+
+### **Thoughts :**
+Had no progress cuz of a system issue. But I'm gonna recover tomorrow
 
 <br>
 
