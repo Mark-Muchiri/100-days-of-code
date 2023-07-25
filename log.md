@@ -89,3 +89,20 @@ Had no progress cuz of a system issue. But I'm gonna recover tomorrow
 [NodeJS-Authentication](https://github.com/Mark-Muchiri/NodeJS-Authentication)
 
 <br>
+
+
+## Day 6 : July 24, Wednesday
+
+### **Today's progress :**
+- Tried getting all users using s session token
+
+### **Thoughts :**
+Today there was a small progress. It was debugging day
+
+<br>
+
+**Links to work :** 
+
+[NodeJS-Authentication](https://github.com/Mark-Muchiri/NodeJS-Authentication)
+
+<br>
