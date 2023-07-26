@@ -110,7 +110,7 @@ Today there was a small progress. It was debugging day
 ## Day 6 : July 27, Thursady
 
 ### **Today's progress :**
-- Was able to make the uder delete, update feature. Only if the user is loged in and is the owner of the account taking those actions
+- Was able to make the uder delete, update feature. Only if the user is loged in and is the owner of the account is the one taking those actions
 
 ### **Thoughts :**
 Today was exciting cuz I got through some errors one on my own and the other with some assistance from Discord. I'm happy with the results today.
