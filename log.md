@@ -74,7 +74,7 @@ It was farely smooth
 <br>
 
 
-## Day 5 : July 24, Tuesday
+## Day 5 : July 25, Tuesday
 
 ### **Today's progress :**
 - Got system update issues with firmware that crashed VScode
@@ -91,13 +91,29 @@ Had no progress cuz of a system issue. But I'm gonna recover tomorrow
 <br>
 
 
-## Day 6 : July 24, Wednesday
+## Day 6 : July 26, Wednesday
 
 ### **Today's progress :**
 - Tried getting all users using s session token
 
 ### **Thoughts :**
 Today there was a small progress. It was debugging day
+
+<br>
+
+**Links to work :** 
+
+[NodeJS-Authentication](https://github.com/Mark-Muchiri/NodeJS-Authentication)
+
+<br>
+
+## Day 6 : July 27, Thursady
+
+### **Today's progress :**
+- Was able to make the uder delete, update feature. Only if the user is loged in and is the owner of the account taking those actions
+
+### **Thoughts :**
+Today was exciting cuz I got through some errors one on my own and the other with some assistance from Discord. I'm happy with the results today.
 
 <br>
 
