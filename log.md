@@ -122,3 +122,38 @@ Today was exciting cuz I got through some errors one on my own and the other wit
 [NodeJS-Authentication](https://github.com/Mark-Muchiri/NodeJS-Authentication)
 
 <br>
+
+## Day 7 : August 3, Thursady
+
+### **Today's progress :**
+- Learned some JSX specific syntax eg. className=""
+- Learned that for you to render multiple elements, a parent and child element is required.
+- Learned how to render multiple elements inside a parent element
+
+### **Thoughts :**
+Today I changed my tactick to learning the foundations of REACT and focusing on that then afterwards make my frontend E-commerce website using react without the backend integrated
+
+<br>
+
+**Links to work :** 
+
+[REACT](https://github.com/Mark-Muchiri/REACT)
+
+<br>
+
+
+## Day 8 : August ..., ...
+
+### **Today's progress :**
+...
+
+### **Thoughts :**
+...
+
+<br>
+
+**Links to work :** 
+
+[...](...)
+
+<br>
