@@ -142,7 +142,30 @@ Today I changed my tactick to learning the foundations of REACT and focusing on 
 <br>
 
 
-## Day 8 : August ..., ...
+## Day 8 - 9 : August 8, Tuesday
+
+### **Today's progress :**
+I worked on custom components, parent/child components, and styling in REACT using CSS. Following the REACT course.
+
+![](https://cdn.discordapp.com/attachments/919156613401690162/1138571378740690954/image.png)
+
+### **Thoughts :**
+Made progress
+
+<br>
+
+**Links to work :** 
+
+[REACT repo link](https://github.com/Mark-Muchiri/REACT)
+
+Branches: 
+- custom-component-challenge
+- parent/child-components 
+- styling-with-classes
+<br>
+
+
+<!-- ## Day 9 : August ..., ...
 
 ### **Today's progress :**
 ...
@@ -156,4 +179,4 @@ Today I changed my tactick to learning the foundations of REACT and focusing on 
 
 [...](...)
 
-<br>
+<br> -->
