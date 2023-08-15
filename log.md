@@ -165,7 +165,27 @@ Branches:
 <br>
 
 
-<!-- ## Day 9 : August ..., ...
+## Day 10 : August 16, Wednesday
+Finished 1st React scrimba module
+### **Today's progress :**
+Moving step by step by doing something productive
+
+### **Thoughts :**
+None for now. Same ol' same ol'
+
+<br>
+
+**Links to work :** 
+
+[REACT repo link](https://github.com/Mark-Muchiri/REACT)
+
+Branch:
+- Main
+
+<br>
+
+
+<!-- ## Day 11 : August ..., ...
 
 ### **Today's progress :**
 ...
